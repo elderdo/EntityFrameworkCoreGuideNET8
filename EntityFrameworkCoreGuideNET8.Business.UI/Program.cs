@@ -1,16 +1,13 @@
-// Example: is using Program.cs  file is kept in  Project EntityFrameworkCoreGuideNET8.Business.UI, which is ASP.net Core MVC Project
-using EntityFrameworkCoreGuideNET8.Business.UI.Extensions;
-
+/// <summary>
+/// Entry point for the ASP.NET Core MVC application.
+/// Services are registered with the extension class.
+/// Usings are managed in the GlobalUsings.cs file.
+/// </summary>
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
-// Example: Configuring authentication and authorization in ASP.NET Core
-builder.Services.AddJwtAuthentication(builder.Configuration);
-
-builder.Services.AddAdminAuthorization();
-
+builder.Services.AddCustomServices(builder.Configuration);
 
 var app = builder.Build();
 
@@ -18,7 +15,6 @@ var app = builder.Build();
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
-    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
 

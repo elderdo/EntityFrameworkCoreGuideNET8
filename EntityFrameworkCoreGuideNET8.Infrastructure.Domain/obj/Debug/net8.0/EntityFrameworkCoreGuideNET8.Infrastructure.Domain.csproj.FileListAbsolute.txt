@@ -9,3 +9,15 @@ E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructu
 E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\refint\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
 E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
 E:\GitHub\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\ref\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.deps.json
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\bin\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.AssemblyInfoInputs.cache
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.AssemblyInfo.cs
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.sourcelink.json
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\refint\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.pdb
+C:\Users\Douglas\Documents\C#\EntityFrameworkCoreGuideNET8\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\obj\Debug\net8.0\ref\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C/5nqO3XXcg6UkHcqe0+Ul6zgVxNzcu/tReRvk649zCjzZCHmGV1ttKWghEoF0WQtXkK5gs2OZypCNV478SCpA==",
+  "dgSpecHash": "O/rEMZ8NtsI=",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Migrations\\EntityFrameworkCoreGuideNET8.Infrastructure.Migrations.csproj",
+  "projectFilePath": "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Migrations\\EntityFrameworkCoreGuideNET8.Infrastructure.Migrations.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

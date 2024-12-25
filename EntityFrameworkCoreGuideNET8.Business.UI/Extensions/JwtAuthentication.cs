@@ -1,12 +1,15 @@
 ﻿// Example: Creating a JwtAuthentication.cs class the file is kept in Extensions Folder in Project EntityFrameworkCoreGuideNET8.Business.UI
-
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-using System.Text;
-
 namespace EntityFrameworkCoreGuideNET8.Business.UI.Extensions;
-public static  class JwtAuthentication
+/// <summary>
+/// Provides extension methods for adding JWT authentication to the service collection.
+/// </summary>
+public static class JwtAuthentication
 {
+    /// <summary>
+    /// Adds JWT authentication to the specified service collection.
+    /// </summary>
+    /// <param name="services">The service collection to add authentication to.</param>
+    /// <param name="configuration">The configuration containing JWT settings.</param>
     public static void AddJwtAuthentication(this IServiceCollection services, IConfiguration configuration)
     {
         // Example: Configuring authentication and authorization in ASP.NET Core
@@ -24,7 +27,5 @@ public static  class JwtAuthentication
                     IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["Jwt:Key"]))
                 };
             });
-
-
     }
 }

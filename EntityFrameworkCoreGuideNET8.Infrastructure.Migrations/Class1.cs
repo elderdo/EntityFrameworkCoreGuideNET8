@@ -1,7 +1,9 @@
-﻿namespace EntityFrameworkCoreGuideNET8.Infrastructure.Migrations
-{
-    public class Class1
-    {
+﻿namespace EntityFrameworkCoreGuideNET8.Infrastructure.Migrations;
 
-    }
+/// <summary>
+/// Represents a placeholder class for future implementation.
+/// </summary>
+public class Class1
+{
+
 }

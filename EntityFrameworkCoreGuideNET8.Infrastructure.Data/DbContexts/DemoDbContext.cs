@@ -1,15 +1,11 @@
 ﻿// Example: Creating a DemoDbContext class the file is kept in DbContext Folder in Project EntityFrameworkCoreGuideNET8.Infrastructure.Data
-
-using EntityFrameworkCoreGuideNET8.Infrastructure.Domain.Models;
-using Microsoft.EntityFrameworkCore;
-
 namespace EntityFrameworkCoreGuideNET8.Infrastructure.Data;
-public class DemoDbContext: DbContext
+public class DemoDbContext : DbContext
 {
-    
+
     public DemoDbContext(DbContextOptions options) : base(options)
     {
-    
+
     }
 
     public DbSet<User> Users { get; set; }

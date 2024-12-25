@@ -2784,23 +2784,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ziggy\\.nuget\\packages\\": {},
+    "C:\\Users\\Douglas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Business\\EntityFrameworkCoreGuideNET8.Business.csproj",
+      "projectUniqueName": "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Business\\EntityFrameworkCoreGuideNET8.Business.csproj",
       "projectName": "EntityFrameworkCoreGuideNET8.Business",
-      "projectPath": "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Business\\EntityFrameworkCoreGuideNET8.Business.csproj",
-      "packagesPath": "C:\\Users\\ziggy\\.nuget\\packages\\",
-      "outputPath": "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Business\\obj\\",
+      "projectPath": "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Business\\EntityFrameworkCoreGuideNET8.Business.csproj",
+      "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ziggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2810,17 +2810,18 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dev.azure.com/dotnet/CommunityToolkit/_artifacts/feed/CommunityToolkit-Labs/NuGet/CommunityToolkit.Labs.Uwp.TokenView": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Data\\EntityFrameworkCoreGuideNET8.Infrastructure.Data.csproj": {
-              "projectPath": "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Data\\EntityFrameworkCoreGuideNET8.Infrastructure.Data.csproj"
+            "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Data\\EntityFrameworkCoreGuideNET8.Infrastructure.Data.csproj": {
+              "projectPath": "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Data\\EntityFrameworkCoreGuideNET8.Infrastructure.Data.csproj"
             },
-            "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj": {
-              "projectPath": "E:\\GitHub\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj"
+            "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj": {
+              "projectPath": "C:\\Users\\Douglas\\Documents\\C#\\EntityFrameworkCoreGuideNET8\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj"
             }
           }
         }
@@ -2855,7 +2856,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\PROGRA~1\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

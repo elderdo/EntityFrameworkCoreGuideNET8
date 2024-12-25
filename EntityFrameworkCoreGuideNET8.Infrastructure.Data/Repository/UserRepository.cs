@@ -1,9 +1,4 @@
 ﻿// Example: Creating a UserRepository class the file is kept in Repository Folder in Project EntityFrameworkCoreGuideNET8.Infrastructure.Data
-using EntityFrameworkCoreGuideNET8.Infrastructure.Domain.DTOs;
-using EntityFrameworkCoreGuideNET8.Infrastructure.Domain.Interfaces;
-using EntityFrameworkCoreGuideNET8.Infrastructure.Domain.Models;
-using Microsoft.EntityFrameworkCore;
-
 namespace EntityFrameworkCoreGuideNET8.Infrastructure.Data.Repository;
 public class UserRepository : IUserRepository
 {
@@ -49,7 +44,7 @@ public class UserRepository : IUserRepository
     /// <returns></returns>
     public Task<List<User>> LoadUsersWithOrdersAsync() =>
      _dbContext.Users
-        .Include(u=>u.Orders)
+        .Include(u => u.Orders)
          .Where(u => u.IsActive)
          .OrderBy(u => u.LastName)
          .ThenBy(u => u.FirstName)

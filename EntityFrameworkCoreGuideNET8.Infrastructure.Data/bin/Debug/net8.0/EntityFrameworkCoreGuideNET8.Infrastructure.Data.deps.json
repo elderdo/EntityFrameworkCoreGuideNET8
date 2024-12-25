@@ -563,7 +563,10 @@
       },
       "EntityFrameworkCoreGuideNET8.Infrastructure.Domain/1.0.0": {
         "runtime": {
-          "EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll": {}
+          "EntityFrameworkCoreGuideNET8.Infrastructure.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

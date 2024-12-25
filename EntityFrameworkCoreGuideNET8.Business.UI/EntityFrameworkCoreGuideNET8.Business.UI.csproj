@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EntityFrameworkCoreGuideNET8.Business\EntityFrameworkCoreGuideNET8.Business.csproj" />
     <ProjectReference Include="..\EntityFrameworkCoreGuideNET8.Infrastructure.Domain\EntityFrameworkCoreGuideNET8.Infrastructure.Domain.csproj" />
   </ItemGroup>
 
